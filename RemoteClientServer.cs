@@ -1,6 +1,6 @@
-// Create a folder in your project name it Common.
-// Paste the file with the name of RemoteClientServer.cs
-// Rename your MySite namespace
+// Create a folder in your project and name it 'Common'.
+// Paste the file and name it 'RemoteClientServer.cs'.
+// Rename your 'MySite' namespace."
 
 
 using System;
