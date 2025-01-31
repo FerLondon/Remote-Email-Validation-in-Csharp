@@ -1,4 +1,4 @@
-// Rename your MySite namespace
+// Rename your 'MySite' namespace."
 
 
 using System.ComponentModel;
