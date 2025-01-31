@@ -1,4 +1,4 @@
-// On your User Controller paste the code bellow.
+// In your User Controller, paste the code below.
 
 
         public JsonResult CheckEmailIsValid(string Email)
